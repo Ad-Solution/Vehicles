@@ -2,15 +2,15 @@
 const vehicleData = [
     {
         id: 1,
-        name: 'Car 1',
-        category: 'Cars',
-        price: 'Rs.50000',
-        location: 'New York',
-        mileage: 20000,
-        year: 2018,
+        name: '',
+        category: '',
+        price: '',
+        location: '',
+        mileage: ,
+        year: ,
         images: ['img1.jpg', 'img2.jpg', 'img3.jpg', 'img5.jpg'],
-        postedDate: '2023-01-01',
-        description: 'This is a great car. It has been well maintained and is in excellent condition. Perfect for a family or for commuting to work.'
+        postedDate: '',
+        description: ''
     },
     
     
